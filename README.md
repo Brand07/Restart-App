@@ -1,4 +1,4 @@
-#My Progress on the "Restart-App" module from [this](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) udemy course.
+My Progress on the "Restart-App" module from [this](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) Udemy course.
 
 Dear App Developer,
 
